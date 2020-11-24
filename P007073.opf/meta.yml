@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG17586
   title: བདེ་ཆོག་ནག་པོའི་སྒྲུབ་དཀྱིལ།
-  volume: ''
+  volume:
+    cec85f0ac70145bc99269136c1234580:
+      image_group_id: I1KG17957
+      title: Volume 1 of bde chog nag po'i sgrub dkyil/
+      volume_number: 1
+      total_pages: 258
   author: ''
+ebook_metadata:
+  title: བདེ་ཆོག་ནག་པོའི་སྒྲུབ་དཀྱིལ།
+  author: ''
+  sku: P007073
+  cover: cover.jpg
+  layers:
+  - pagination
